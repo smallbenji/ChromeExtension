@@ -1,0 +1,14 @@
+{
+    "name": "Benji math",
+    "version": "0.1",
+    "description": "coming soon...",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "Math",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs", "<all_urls>"
+    ]
+}
