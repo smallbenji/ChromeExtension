@@ -1,6 +1,6 @@
 {
     "name": "Benji math",
-    "version": "0.1",
+    "version": "0.3",
     "description": "coming soon...",
     "manifest_version": 2,
     "browser_action": {
